@@ -24,7 +24,7 @@ export function CTA() {
               asChild
             >
               <a 
-                href="https://wa.me/5511999999999?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20saber%20mais%20sobre%20os%20sites." 
+                href="http://wa.me/5592982327173" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
@@ -38,8 +38,8 @@ export function CTA() {
               className="text-base px-8 py-6 rounded-full border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground bg-transparent"
               asChild
             >
-              <a href="mailto:contato@exemplo.com">
-                Solicitar orçamento
+              <a href="mailto:amanda@zeami.com.br">
+                Mande um e-mail
                 <ArrowRight className="ml-2 h-5 w-5" />
               </a>
             </Button>

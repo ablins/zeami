@@ -18,7 +18,7 @@ const faqs = [
   },
   {
     question: "Como manter meu site ativo?",
-    answer: "Temos um serviço de hospedagem com um valor mensal de manutenção que inclui manter o site no ar e alterações pequenas quando necessário. Você precisa comprar o seu domínio, mas não se preocupa — nós ajudamos com isso."
+    answer: "Temos um serviço de hospedagem com um valor mensal de manutenção que inclui manter o site no ar e alterações pequenas quando necessário. Você precisa comprar o seu domínio, mas não se preocupa que nós ajudamos com isso."
   },
   {
     question: "Posso fazer alterações depois?",
@@ -30,7 +30,7 @@ const faqs = [
   },
   {
     question: "Como funciona o pagamento?",
-    answer: "Para Pix, é 50% antes de começar e 50% na entrega. Para cartão de crédito, o pagamento é feito antes do início do projeto, com parcelamento em até 6x. Emito nota fiscal."
+    answer: "Para Pix, é 50% antes de começar e 50% na entrega. Para cartão de crédito, o pagamento é feito antes do início do projeto, com parcelamento em até 6x. Emitimos nota fiscal."
   }
 ]
 
